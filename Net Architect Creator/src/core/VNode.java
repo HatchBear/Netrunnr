@@ -1,5 +1,5 @@
-package core;
+package src.core;
 
 public class VNode {
-    
+
 }
