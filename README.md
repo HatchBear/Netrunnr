@@ -1,9 +1,3 @@
-# README
-
-Created by: Jackson Bayer
-Created time: April 13, 2025 2:13 PM
-Category: Informational
-
 # Netrunnr
 
 A companion used by the GM and player in tandem to make netrunning more seamless and enjoyable for both parties. Rules on how netrunning functions are subject to change due to making netrunning make more sense on a desktop environment. Some terms will change, as well as many aspects of how netrunning is performed, but the difficulty RNG elements that make netrunning fun will stay at its core. This way, it requires more skill from the player.
